@@ -5,9 +5,9 @@
 ## Installing
 
 ```bash
-git clone https://github.com/resources3312/NumericCommandExecutor
+git clone https://github.com/resources3312/Numeric-Command-Executor
 
-cd NumericCommandExecutor
+cd Numeric-Command-Executor
 
 chmod +x install.sh
 
