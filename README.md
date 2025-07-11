@@ -1,6 +1,6 @@
-# NumericCommandExecutor
+# Numeric Command Executor
 
-**NumericCommandExecutor** - simple utility for executing commands from files by their indexes. Support cli menu and command with user input
+**Numeric Command Executor** - simple utility for executing commands from files by their indexes. Support cli menu and command with user input
 
 ## Installing
 
@@ -29,6 +29,6 @@ command 7
 ```
 ### Running
 ```bash
-./nce.py /full/path/to/command_list.txt
+nce.py /path/to/command_list.txt
 ```
 ![Example of usage](./images/usage_1.png) 
