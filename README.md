@@ -31,4 +31,3 @@ command 7
 ```bash
 nce.py /path/to/command_list.txt
 ```
-![Example of usage](./images/usage_1.png) 
